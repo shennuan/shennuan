@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">SHENNUAN | Personal workspace</title>
+<desc id="desc">A restrained black and ivory typographic cover with a muted gold accent.</desc>
+<rect width="1280" height="360" fill="#18191b"/>
+<path d="M64 62H1216M64 300H1216" stroke="#424346"/>
+<rect x="64" y="61" width="82" height="3" fill="#c6b47f"/>
+<g font-family="Helvetica,Arial,sans-serif">
+<text x="64" y="106" fill="#b9b9b5" font-size="15">PERSONAL WORKSPACE</text>
+<text x="1216" y="106" text-anchor="end" fill="#b9b9b5" font-size="15">IDEAS / EXPERIMENTS / CREATIONS</text>
+<text x="60" y="220" fill="#f4f4f0" font-size="98" font-weight="600">SHENNUAN</text>
+<text x="66" y="266" fill="#c6b47f" font-size="21">Stay curious. Build thoughtfully.</text>
+<text x="1216" y="330" text-anchor="end" fill="#8f9195" font-size="13">github.com/shennuan</text>
+</g>
+</svg>
