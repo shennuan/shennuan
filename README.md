@@ -1,28 +1,18 @@
-<div align="center">
+<p align="center">
+<img src="./banner.svg" width="100%" alt="SHENNUAN - Stay curious. Build thoughtfully.">
+</p>
+
+<p align="center">把想法做成作品，把探索留成记录。</p>
+
+<p align="center">
+<a href="https://github.com/shennuan?tab=repositories">Repositories</a> &nbsp; / &nbsp; <a href="https://github.com/shennuan?tab=stars">Discoveries</a>
+</p>
 
 <br>
-
-<sub>THE PERSONAL WORKSPACE OF</sub>
-
-# S H E N N U A N
-
-### Stay curious. Build thoughtfully.
-
-把想法做成作品，把探索留成记录。
-
-<br>
-
-[Repositories](https://github.com/shennuan?tab=repositories) &nbsp; / &nbsp; [Discoveries](https://github.com/shennuan?tab=stars)
-
-<br>
-
-</div>
-
----
 
 ### A space to explore
 
-这里收集我的学习记录、代码实验与逐步成形的作品。
+这里收集我的学习记录、代码实验与逐步成形的作品。<br>
 从一个小问题开始，在实践中理解，在迭代中完善。
 
 <br>
@@ -40,6 +30,4 @@
 
 ---
 
-<div align="center">
-<sub>SMALL STEPS. THOUGHTFUL WORK. CONTINUOUS DISCOVERY.</sub>
-</div>
+<p align="center"><sub>SMALL STEPS. THOUGHTFUL WORK. CONTINUOUS DISCOVERY.</sub></p>
