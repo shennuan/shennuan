@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Ziyu 🍯</h1>
-<p align="center"><b>沈梓煜 · AI 产品 / 金融研究 / 数据分析</b></p>
+<p align="center"><b>Ziyu Shen · AI 产品 / 金融研究 / 数据分析</b></p>
 <p align="center">认真研究复杂问题，也给生活留一点蜂蜜的甜。</p>
 
 <p align="center">
